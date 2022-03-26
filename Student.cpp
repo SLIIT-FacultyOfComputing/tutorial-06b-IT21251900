@@ -3,7 +3,7 @@
 using namespace std;
 
 // Assign studentId and name
-Student::assignDetails(int studentId, char name[]) {
+Student::assignDetails(int studentId, char name) {
     studentId = studentId;
     name = name;
 }
